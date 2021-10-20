@@ -17,12 +17,12 @@
 - [Self-Service Data Preparation](#self-service-data-preparation)
 - [1. Introduction](#1-introduction)
   - [1.1. Business Scenario](#11-business-scenario)
-  - [3. Metadata Explorer](#3-metadata-explorer)
-    - [3.1. Browse Connections](#31-browse-connections)
-    - [3.2. Profile Data](#32-profile-data)
-    - [3.3. View Factsheet](#33-view-factsheet)
-  - [3.4. Prepare Dataset](#34-prepare-dataset)
-  - [3.5. Publish Dataset](#35-publish-dataset)
+  - [2. Metadata Explorer](#2-metadata-explorer)
+    - [2.1. Browse Connections](#21-browse-connections)
+    - [2.2. Profile Data](#22-profile-data)
+    - [2.3. View Factsheet](#23-view-factsheet)
+  - [2.4. Prepare Dataset](#24-prepare-dataset)
+  - [2.5. Publish Dataset](#25-publish-dataset)
 
 
 # 1. Introduction
@@ -66,7 +66,7 @@ Click on the Metadata Explorer Tile :
 
 
 
-## 3. Metadata Explorer
+## 2. Metadata Explorer
 
 In the SAP Data Intelligence Launchpad, click on Metadata Explorer tile. This will open the Metadata Explorer.
 
@@ -78,7 +78,7 @@ The Metadata Explorer Home page contains options help you search for data on a c
 ![image016](../Images/image016.jpg)
 
 
-### 3.1. Browse Connections
+### 2.1. Browse Connections
 
 Open Browse Connections by choosing Catalog -> Browse Connections. The connections that we created in the Connection Management application are listed, select the ``list View`` option for more connection details.
 
@@ -94,7 +94,7 @@ Open the SAP Hana Cloud connection by clicking on the ``DI_TA_CONN`` link. After
 ![image019](../Images/image019.jpg)
 
 
-### 3.2. Profile Data
+### 2.2. Profile Data
 
 In our system the **EMOBILITY_BOOT_NOTIFICATIONS** table is already profiled. Just for your information, additional sources can be profiled in the "Metadata Explorer" with the option "Start Profiling".
 
@@ -102,7 +102,7 @@ In our system the **EMOBILITY_BOOT_NOTIFICATIONS** table is already profiled. Ju
 
 ![image021](../Images/image021.jpg)
 
-### 3.3. View Factsheet
+### 2.3. View Factsheet
 
 For any profiled dataset you can view the Factsheet. Select "view factsheet" icon
 
@@ -133,7 +133,7 @@ You may preview the data by clicking the data preview tab
 ![image028](../Images/image028.jpg)
 
 
-## 3.4. Prepare Dataset
+## 2.4. Prepare Dataset
 
 Next, we will **prepare** the dataset to standardize the content. 
 
@@ -214,7 +214,7 @@ Specify the ``Dataset Name``, replace ``AC3538U01`` with the username that was s
 
 **Please note: We have created the data preparation but we did not run it because the AC3538U01.EMOBILITY_BOOT_NOTIFICATIONS table is a shared table that is utilised by all workshop attendees.**
 
-## 3.5. Publish Dataset
+## 2.5. Publish Dataset
 
 So far, we have profiled and prepared our dataset and changed the ``TS`` column to the required data type of ``TIMESTAMP``. Now, **navigate back** to the Browse Connection screen.
 
