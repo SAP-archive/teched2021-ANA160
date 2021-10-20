@@ -66,7 +66,7 @@ The Metadata Explorer Home page contains options help you search for data on a c
 ![image016](../Images/image016.jpg)
 
 
-### 2.1. Browse Connections
+## Exercise 1.3 - Browse Connections
 
 Open Browse Connections by choosing Catalog -> Browse Connections. The connections that we created in the Connection Management application are listed, select the ``list View`` option for more connection details.
 
