@@ -1,4 +1,4 @@
-**Technical Workshop**
+# Exercise 1 - Self-Service Data Preparation
 
  ![image001](../Images/image001.jpg)
 
@@ -12,30 +12,18 @@
 
 - - - -
 
-# Self-Service Data Preparation
 
-- [Self-Service Data Preparation](#self-service-data-preparation)
-- [1. Introduction](#1-introduction)
-  - [1.1. Business Scenario](#11-business-scenario)
-  - [2. Metadata Explorer](#2-metadata-explorer)
-    - [2.1. Browse Connections](#21-browse-connections)
-    - [2.2. Profile Data](#22-profile-data)
-    - [2.3. View Factsheet](#23-view-factsheet)
-  - [2.4. Prepare Dataset](#24-prepare-dataset)
-  - [2.5. Publish Dataset](#25-publish-dataset)
-
-
-# 1. Introduction
+## Exercise 1.1 - Introduction
 Welcome to a Technical workshop on SAP Data Intelligence Cloud. This hands-on workshop focusses on the Self-Service Data Preparation capabilities provided by SAP Data Intelligence.
 
 
 
-## 1.1. Business Scenario
+## Business Scenario
 In this exercise, we are going to solve a real business challenge by transforming and publishing a dataset using the Self-Service Data Preparation feature for SAP Data Intelligence. 
 
 Business users and data scientists can access, transform, and enrich datasets using a spreadsheet-like user interface in Metadata Explorer.
 
-Use data preparation to find data quality issues, correct and standardize data, and then output the data for analysis. This process improves efficiency and gains better business insights.
+Use data preparation to find data qualsity issues, correct and standardize data, and then output the data for analysis. This process improves efficiency and gains better business insights.
 
 Use the Data Preparation user interface in Metadata Explorer to view a set of data and create a recipe of actions to shape the data. The system puts these actions into a pipeline, also known as a graph. After processing the preparation, the transformed data is output into a target data set that other downstream applications can use. The Data Preparation user interface creates the graph for you so you do not have to find and configure the operators in the Modeler to create a graph.
 
@@ -66,7 +54,7 @@ Click on the Metadata Explorer Tile :
 
 
 
-## 2. Metadata Explorer
+## Exercise 1.2 - Metadata Explorer
 
 In the SAP Data Intelligence Launchpad, click on Metadata Explorer tile. This will open the Metadata Explorer.
 
