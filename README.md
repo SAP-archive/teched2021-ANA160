@@ -35,7 +35,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 0.3 - Creating the required users](exercises/ex0#exercise-03---creating-the-required-users)
     - [Exercise 0.4 - Creating a SAP Web IDE Trial Instance](exercises/ex0#exercise-04---creating-a-sap-web-ide-trial-account)
 - [Exercise 1 - Meta Data Management](exercises/ex1/)
-    - [Exercise 1 - Introduction](exercises/ex1#1-introduction)
+    - [1. Introduction](exercises/ex1/)
     - [Exercise 2 - Metadata Explorer](exercises/ex1#2--metadata-explorer)
     - [Exercise 1.3 - Browse Connections](exercises/ex1#21-browse-connections)
     - [Exercise 1.4 - Exploring the data](exercises/ex1#exercise-14---exploring-the-data)
