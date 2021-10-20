@@ -36,7 +36,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 0.4 - Creating a SAP Web IDE Trial Instance](exercises/ex0#exercise-04---creating-a-sap-web-ide-trial-account)
 - [Exercise 1 - Self-Service Data Preparation](exercises/ex1/)
     - [Exercise 1.1 - Introduction](exercises/ex1#exercise-11---introduction)
-    - [Exercise 1.2 - Metadata Explorer](exercises/ex1#12-metadata-explorer)
+    - [Exercise 1.2 - Metadata Explorer](exercises/ex1#exercise-12---metadata-explorer)
     - [Exercise 1.3 - Browse Connections](exercises/ex1#21-browse-connections)
     - [Exercise 1.4 - Exploring the data](exercises/ex1#exercise-14---exploring-the-data)
     - [Exercise 1.5 - Understanding the demo scenario](exercises/ex1#exercise-15---understanding-the-demo-scenario)
