@@ -28,6 +28,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
 
 ## Exercises
 
+
 - [Exercise 0 - Setting up the environment](exercises/ex0/)
     - [Exercise 0.1 - Creating a SAP Cloud Platform Trial Account](exercises/ex0#exercise-01---creating-a-sap-cloud-platform-trial-account)
     - [Exercise 0.2 - Creating a SAP HANA Cloud Trial Instance](exercises/ex0#exercise-02---creating-a-sap-hana-cloud-trial-instance)
@@ -35,7 +36,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 0.4 - Creating a SAP Web IDE Trial Instance](exercises/ex0#exercise-04---creating-a-sap-web-ide-trial-account)
 - [Exercise 1 - Meta Data Management](exercises/ex1/)
     - [Exercise 1 - Introduction](exercises/ex1#1-introduction)
-    - [Exercise 1.2 - Metadata Explorer](exercises/ex1#2-metadata-explorer)
+    - [Exercise 2 - Metadata Explorer](exercises/ex1#2--metadata-explorer)
     - [Exercise 1.3 - Browse Connections](exercises/ex1#21-browse-connections)
     - [Exercise 1.4 - Exploring the data](exercises/ex1#exercise-14---exploring-the-data)
     - [Exercise 1.5 - Understanding the demo scenario](exercises/ex1#exercise-15---understanding-the-demo-scenario)
