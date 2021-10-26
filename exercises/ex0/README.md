@@ -8,8 +8,8 @@ Architecture image here... with descriptions
 
 <br>![](/exercises/Images/arch.jpg)
 
-<!-- ## Exercise 0.2 - SAP Data Intelligence -->
-## 1. Load REST API content from SAP Data Intelligence To SAP Hana Cloud
+## Exercise 0.2 - SAP Data Intelligence
+<!-- ## 1. Load REST API content from SAP Data Intelligence To SAP Hana Cloud -->
 
 SAP Data Intelligence graph is a network of operators connected to each other using typed input ports and output ports for data transfer where users can define and configure the operators in a graph.
 
@@ -40,21 +40,21 @@ SAP Hana Cloud Operator configuration attributes.
 
 
 
-<!-- ## Exercise 0.3 - SAP Data Warehouse Cloud -->
-## 2. Federate historical data from Data Lake to DWC 
+## Exercise 0.3 - SAP Data Warehouse Cloud
 
 Description of DWC role in the overall solution/workshop... ... outcome of hands-on
 
-<!-- ## Exercise 0.4 - SAP Analytics Cloud
- -->
+## Exercise 0.4 - SAP Analytics Cloud
+ 
 
-## 3. Pull user data from SAP S/4
+## Exercise 0.5 - Pull user data from SAP S/4
 
  .....
 
 ## 4. Model data in DWC
 
  .....
+
 
 ## 5. Build dashboards in SAC
 

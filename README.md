@@ -38,10 +38,11 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
 
 
 - [Exercise 0 - Architecture and Overview](exercises/ex0/)
-    - [Exercise 0.1 - Introduction](exercises/ex0#exercise-01---creating-a-sap-cloud-platform-trial-account)
-    - [Exercise 0.2 - DI](exercises/ex0#exercise-01---creating-a-sap-cloud-platform-trial-account)
-    - [Exercise 0.3 - DWC](exercises/ex0#exercise-02---creating-a-sap-hana-cloud-trial-instance)
-    - [Exercise 0.4 - SAC](exercises/ex0#exercise-03---creating-the-required-users)
+    - [Exercise 0.1 - Architecture](exercises/ex0#exercise-01---architecture)
+    - [Exercise 0.2 - DI](exercises/ex0#exercise-02---sap-data-intelligence)
+    - [Exercise 0.3 - DWC](exercises/ex0#exercise-03---sap-data-warehouse-cloud)
+    - [Exercise 0.4 - SAC](exercises/ex0#exercise-04---sap-analytics-cloud)
+    - [Exercise 0.5 - S/4](exercises/ex0#exercise-05---pull-user-data-from-sap-s/4)
  
 - [Exercise 1 - Self-Service Data Preparation](exercises/ex1/)
     - [Exercise 1.1 - Introduction](exercises/ex1#exercise-11---introduction)
