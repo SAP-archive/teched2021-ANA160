@@ -16,14 +16,12 @@
 ## Exercise 1.1 - Introduction
 Welcome to a Technical workshop on SAP Data Intelligence Cloud. This hands-on workshop focusses on the Self-Service Data Preparation capabilities provided by SAP Data Intelligence.
 
-
-
 ## Business Scenario
 In this exercise, we are going to solve a real business challenge by transforming and publishing a dataset using the Self-Service Data Preparation feature for SAP Data Intelligence. 
 
 Business users and data scientists can access, transform, and enrich datasets using a spreadsheet-like user interface in Metadata Explorer.
 
-Use data preparation to find data qualsity issues, correct and standardize data, and then output the data for analysis. This process improves efficiency and gains better business insights.
+Use data preparation to find data quality issues, correct and standardize data, and then output the data for analysis. This process improves efficiency and gains better business insights.
 
 Use the Data Preparation user interface in Metadata Explorer to view a set of data and create a recipe of actions to shape the data. The system puts these actions into a pipeline, also known as a graph. After processing the preparation, the transformed data is output into a target data set that other downstream applications can use. The Data Preparation user interface creates the graph for you so you do not have to find and configure the operators in the Modeler to create a graph.
 
