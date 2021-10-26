@@ -8,7 +8,7 @@ In this exercise we will add a projection to exclude columns, introduce a calcul
 
 At the conclusion of this exercise your Graphical View will look similar to the image below
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image26.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image26.png)
 
 
 
@@ -17,31 +17,31 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 1.  Click on the Join
 2.  In the context click on **Rename or Exclude Columns (Projection)**
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image1.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image1.png)
 
-1.  Click on ![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image2.png) to Exclude TS Column.
+1.  Click on ![](Images/Projection_Calculatedcolumn_and_Deployment/image2.png) to Exclude TS Column.
 
-> ![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image3.png)
+> ![](Images/Projection_Calculatedcolumn_and_Deployment/image3.png)
 
 1.  Click on Exclude Column.
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image4.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image4.png)
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image5.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image5.png)
 
 1.  Click on the **Projection**
 
 2.  Click on the **Calculated Columns** from the context
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image6.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image6.png)
 
 1.  Properties panel of the **fx** node is displayed
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image7.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image7.png)
 
 1.  Click on the + icon to add a column
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image8.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image8.png)
 
 1.  Click into the Expression box and type:
 
@@ -49,33 +49,33 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 3.  Then, click Validate.
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image9.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image9.png)
 
 1.  Change the Business Name as **Cost** and Technical Name as **Cost** for the Calculated Column
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image10.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image10.png)
 
 1.  Click on Columns
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image11.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image11.png)
 
 1.  Click on the Data Preview icon to see the newly added Calculated Column(**Cost)** data.
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image12.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image12.png)
 
 1.  If we don't find the column in the preview, click on Column Settings, then select **Cost** column from the list and Click OK.
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image13.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image13.png)
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image14.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image14.png)
 
 1.  Click on Data Preview.
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image15.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image15.png)
 
 1.  Click on View to change the View properties.
 
-![](Images/Images/Projection_Calculatedcolumn_and_Deployment/image16.png)
+![](Images/Projection_Calculatedcolumn_and_Deployment/image16.png)
 
 1.  Do the following changes to the Properties of the View:
 2.  Enter Business Name as **E_mobility-Teched**
