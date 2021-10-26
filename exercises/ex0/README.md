@@ -2,11 +2,15 @@
 
 In this exercise you will learn about the architecture implemented in this hands-on workshop.
 
-## Exercise 0.1 - Architecture
+## Exercise 0.1 - Workshop Architecture
 
 Architecture image here... with descriptions
 
-<br>![](/exercises/Images/arch.jpg)
+<br>
+
+![](/exercises/Images/arch.jpg)
+
+<br>
 
 ## Exercise 0.2 - SAP Data Intelligence
 <!-- ## 1. Load REST API content from SAP Data Intelligence To SAP Hana Cloud -->
