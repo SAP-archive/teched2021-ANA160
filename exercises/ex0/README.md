@@ -6,15 +6,40 @@ In this exercise you will learn about the architecture implemented in this hands
 
 Architecture image here... with descriptions
 
-<br>![](/exercises/ex0/images/sap_com_account.png)
+<br>![](/exercises/Images/arch.jpg)
 
 
 
 ## Exercise 0.2 - SAP Data Intelligence
 
-DI graphs and API integration with source systems... SAP Hana Cloud staging...
+### Data Consumption
+SAP Data Intelligence graph is a network of operators connected to each other using typed input ports and output ports for data transfer where users can define and configure the operators in a graph.
 
-<br>![](/exercises/ex0/images/enter_trial1.png)
+In our hands-on workshop we have used the custom Python Operator with custom eMobility API calls to consume and transform API data that are staged in SAP DWC for modeling.
+
+The workshop is not focused on Data Pipelining and consumption, this is merely background information on data origin.
+
+<br>
+
+Data Intelligence Launchpad is a central access point for various tool sets with in the Data Intelligence Suite. The Modeler is the tool set used to create Graphs (Data Pipelines).
+
+![](/exercises/Images/mod_1.jpg)
+
+
+
+Customizable Python operator with custom API calls and data transformation.
+
+![](/exercises/Images/mod_2.jpg)
+
+Example of eMobility API call with standard Python requests.
+
+![](/exercises/Images/mod_3.jpg)
+
+
+SAP Hana Cloud Operator configuration attributes.
+
+![](/exercises/Images/mod_4.jpg)
+
 
 
 
