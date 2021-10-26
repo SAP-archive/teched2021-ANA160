@@ -13,7 +13,7 @@ Architecture image here... with descriptions
 
 SAP Data Intelligence graph is a network of operators connected to each other using typed input ports and output ports for data transfer where users can define and configure the operators in a graph.
 
-In our hands-on workshop we have used the custom Python Operator with custom eMobility API calls to consume and transform API data that are staged in SAP DWC for modeling.
+In our hands-on workshop we have used the custom Python Operator with custom eMobility API calls to consume and transform API data that are staged in SAP Hana Cloud.
 
 The workshop is not focused on Data Pipelining and consumption, this is merely background information on data origin.
 
