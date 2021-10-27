@@ -1,6 +1,6 @@
-# Exercise 6: 6.Spatial Reference
+# Exercise 6: Spatial Reference
 
-In this exercise we will build a dimension view with 6.Spatial Reference and associate it with E_mobility-Teched view built in exercise 5.
+In this exercise we will build a dimension view with Spatial Reference and associate it with E_mobility-Teched view built in exercise 5.
 
 At the conclusion of this exercise your Graphical View will look similar to the image below
 
