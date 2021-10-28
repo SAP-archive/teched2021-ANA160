@@ -23,6 +23,6 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 4.  Join both the tables by using key record **User Id**
 
-5.  Drag and drop ** USERID from E-Mobility Station Data table** on to **User Id present on E-Mobility users table**.
+5.  Drag and drop **USERID from E-Mobility Station Data table** on to **User Id present on E-Mobility users table**.
 
 > ![](Images/joinimage/image5.png)
