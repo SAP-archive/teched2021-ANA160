@@ -53,7 +53,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 2.5 - Projection and Formulas](exercises/ex2/Projection_Calculatedcolumn_and_Deployment.md)
     - [Exercise 2.6 - Spatial](exercises/ex2/Spatial_reference.md)
 - [Exercise 3 - Building dashboards with SAP Analytics Cloud](exercises/ex3/)
-    - [Exercise 3.1 - How can data be re-identified?](exercises/ex3/1.Introduction_and_Log_in.md)
+    - [Exercise 3.1 - Introduction and Logon](exercises/ex3/1.Introduction_and_Log_in.md)
     - [Exercise 3.2 - Building Visualizations](exercises/ex3/2.Building_visualisations.md)
     - [Exercise 3.3 - Building Geographic Visualization ](exercises/ex3/3.Geographic_visualisations.md)
  
