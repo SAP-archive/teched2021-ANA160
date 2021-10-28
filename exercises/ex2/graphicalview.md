@@ -1,10 +1,10 @@
 
 
-### Exercise 3: Create Graphical View 
+### Exercise 2: Create Graphical View 
 
 We will create our model in an intuitive graphical interface and at the conclusion of this exercise your Graphical View will look similar to the image below
 
-![](Images/Graphicalview/image10.png)
+![](Images/Graphicalview/image10.PNG)
 
 We will continue to enhance the view as we progress through the exercises.
 
@@ -29,10 +29,10 @@ We will continue to enhance the view as we progress through the exercises.
 ![](Images/Graphicalview/image6.png)
 
 5.  To import the data from "Hana Cloud" navigate to the Sources tab and find the **TechEd_HC** connection under Connections. Drill down **TechEd_HC** Connection, drill down on **AC3538U01**
-6.  Drill down **Views**, select **EMOBILITY_STATION_DATA**(table) 
+6.  Drill down **Views**, select **EMOBILITY_STATION_DATA**(table).
 7.  Drag and drop the table (**EMOBILITY_STATION_DATA)**on to the canvas.
   
-  (Drill down flow :**Connections -\> TechEd_HC -\> AC3538U01-\> Views-\> EMOBILITY_STATION_DATA**)
+  (Drill down flow :**Connections -\> TechEd_HC -\> AC3538U01-\> Views-\> EMOBILITY_STATION_DATA**).
 
 ![](Images/Graphicalview/image7.png)
 
