@@ -15,7 +15,7 @@ This session introduces attendees to the SAP data and analytics solutions in the
 
 ## Use Case
 
-Employees are increasingly using electrical vehicles as their choice of company car. This creates challenges for companies to provide and manage charging infrastructure efficiently. Companies need to be able to provide sufficient power to run the charging stations, manage any error-prone charging stations and incentivise EV car users to charge at non-peak hours.
+Employees are increasingly using electrical vehicles as their choice of company car. This creates challenges for companies to provide and manage charging infrastructure efficiently. Companies need to be able to provide sufficient power to run the charging stations, manage any error-prone charging stations and incentivize EV car users to charge at non-peak hours.
 
 ## Requirements
 
@@ -32,11 +32,11 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
 
 - [Exercise 0 - Architecture and Overview](exercises/ex0/)
     - [Exercise 0.1 - Workshop Architecture](exercises/ex0#exercise-01---architecture)
-    - [Exercise 0.2 - Data IntelligenceI](exercises/ex0#exercise-02---sap-data-intelligence)
-    - [Exercise 0.3 - Data Warehouse Cloud](exercises/ex0#exercise-03---sap-data-warehouse-cloud)
-    - [Exercise 0.4 - SAP Analytics Cloud](exercises/ex0#exercise-04---sap-analytics-cloud)
-    - [Exercise 0.5 - SAP S/4 data source](exercises/ex0#exercise-05---pull-user-data-from-sap-s/4)
- 
+    - [Exercise 0.2 - REST API integration SAP Data Intelligence](exercises/ex0#02---REST-API-integration-SAP-Data-Intelligence)
+    - [Exercise 0.3 - S/4 User Metadata Integration](exercises/ex0#03---S/4-User-Metadata-Integration)
+    - [Exercise 0.4 - Model data in Data Warehouse Cloud](exercises/ex0#04---Model-data-in-Data-Warehouse-Cloud)
+    - [Exercise 0.5 - Data Federation](exercises/ex0#05---Data-Federation)
+    - [Exercise 0.6 - Build Dashboards in SAP Analytics Cloud](exercises/ex0#06---Build-Dashboards-in-SAP-Analytics-Cloud)
 - [Exercise 1 - Self-Service Data Preparation with Data Intelligence](exercises/ex1/)
     - [Exercise 1.1 - Introduction](exercises/ex1#exercise-11---introduction)
     - [Exercise 1.2 - Metadata Explorer](exercises/ex1#exercise-12---metadata-explorer)
@@ -53,11 +53,10 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 2.5 - Projection and Formulas](exercises/ex2/Projection_Calculatedcolumn_and_Deployment.md)
     - [Exercise 2.6 - Spatial](exercises/ex2/Spatial_reference.md)
 - [Exercise 3 - Building dashboards with SAP Analytics Cloud](exercises/ex3/)
-    - [Exercise 3.1 - How can data be re-identified?](exercises/ex3/README.md#exercise-31---how-can-data-be-re-identified)
-    - [Exercise 3.2 - To be added](exercises/ex3/README.md#exercise-32---applying-k-anonymity)
-    - [Exercise 3.3 - To be added](exercises/ex3/README.md#exercise-33---showing-the-effects-of-k-anonymity)
-    - [Exercise 3.4 - To be added](exercises/ex3/README.md#exercise-34---evaluating-a-data-science-task-on-anonymized-data)
-    - [Exercise 3.5 - To be added](exercises/ex3/README.md#exercise-35---applying-differential-privacy)
+    - [Exercise 3.1 - Introduction and Logon](exercises/ex3/1.Introduction_and_Log_in.md)
+    - [Exercise 3.2 - Building Visualizations](exercises/ex3/2.Building_visualisations.md)
+    - [Exercise 3.3 - Building Geographic Visualization ](exercises/ex3/3.Geographic_visualisations.md)
+ 
 
 
 ## Learn more
