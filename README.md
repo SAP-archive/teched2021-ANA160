@@ -31,7 +31,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
 
 
 - [Exercise 0 - Architecture and Overview](exercises/ex0/)
-    - [Exercise 0 - Workshop Architecture](exercises/ex0#exercise-0---architecture)
+    - [Exercise 0 - Workshop Architecture](exercises/ex0#0---architecture)
     - [Exercise 0.1 - REST API integration SAP Data Intelligence](exercises/ex0#01---REST-API-integration-SAP-Data-Intelligence)
     - [Exercise 0.2 - S/4 User Metadata Integration](exercises/ex0#02---S/4-User-Metadata-Integration)
     - [Exercise 0.3 - Model data in Data Warehouse Cloud](exercises/ex0#03---Model-data-in-Data-Warehouse-Cloud)

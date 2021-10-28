@@ -2,7 +2,7 @@
 
 In this exercise you will learn about the architecture implemented in this hands-on workshop.
 
-## Exercise 0 - Workshop Architecture
+## 0 - Workshop Architecture
 
 <br>
 
