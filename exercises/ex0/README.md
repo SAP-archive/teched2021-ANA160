@@ -56,6 +56,8 @@ Description of DWC role in the overall solution/workshop... ... outcome of hands
 
 ## 0.5 - Data Federation
 
+....
+
 ## 0.6 - Build Dashboards in SAP Analytics Cloud
 
 
@@ -73,4 +75,4 @@ Description of SAC role in the overall solution/workshop... outcome of hands-on
 
 We are now fully set up and can start with the actual hands on exercise. In the very next step, we will upload the demo project, to have an environment with data.
 
-Continue to - [Exercise 1 - Setting up the Web IDE Project](../ex1/README.md)
+Continue to - [Exercise 1 - Self-Service Data Preparation with Data Intelligence](../ex1/README.md)
