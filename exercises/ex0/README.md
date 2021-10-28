@@ -12,8 +12,8 @@ Architecture image here... with descriptions
 
 <br>
 
-## Exercise 0.2 - SAP Data Intelligence
-<!-- ## 1. Load REST API content from SAP Data Intelligence To SAP Hana Cloud -->
+<!-- ## Exercise 0.2 - SAP Data Intelligence -->
+## 0.2 - REST API integration SAP Data Intelligence 
 
 SAP Data Intelligence graph is a network of operators connected to each other using typed input ports and output ports for data transfer where users can define and configure the operators in a graph.
 
@@ -26,8 +26,6 @@ The workshop is not focused on Data Pipelining and consumption, this is merely b
 Data Intelligence Launchpad is a central access point for various tool sets with in the Data Intelligence Suite. The Modeler is the tool set used to create Graphs (Data Pipelines).
 
 ![](/exercises/Images/mod_1.jpg)
-
-
 
 Customizable Python operator with custom API calls and data transformation.
 
@@ -44,23 +42,21 @@ SAP Hana Cloud Operator configuration attributes.
 
 
 
-## Exercise 0.3 - SAP Data Warehouse Cloud
+<!-- ## Exercise 0.3 - SAP Data Warehouse Cloud -->
+## 0.3 - S/4 User Metadata Integration
 
 Description of DWC role in the overall solution/workshop... ... outcome of hands-on
 
-## Exercise 0.4 - SAP Analytics Cloud
+## 0.4 - Model data in Data Warehouse Cloud
  
 
-## Exercise 0.5 - Pull user data from SAP S/4
 
- .....
-
-## 4. Model data in DWC
-
- .....
+...
 
 
-## 5. Build dashboards in SAC
+## 0.5 - Data Federation
+
+## 0.6 - Build Dashboards in SAP Analytics Cloud
 
 
  .....
