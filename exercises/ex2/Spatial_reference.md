@@ -1,6 +1,6 @@
-# Exercise 6: Spatial Reference
+# Exercise 5: Spatial Reference
 
-In this exercise we will build a dimension view with Spatial Reference and associate it with E_mobility-Teched view built in exercise 5.
+In this exercise we will build a dimension view with Spatial Reference and associate it with E_mobility-Teched view built in exercise 4.
 
 At the conclusion of this exercise your Graphical View will look similar to the image below
 
@@ -22,7 +22,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 2.  Under **AC3538U01** drill down on **Views** and select **EMOBILITY_LIVE_CHARGE_STATUS**(table) Drag and drop the table in to Canvas
 
-> (Connections -\> TechEd_HC -\> AC3538U01-\> Views-\> EMOBILITY_LIVE_CHARGE_STATUS)
+(Drill down flow Connections -\> TechEd_HC -\> AC3538U01-\> Views-\> EMOBILITY_LIVE_CHARGE_STATUS)
 
 ![](Images/spatialreferenceimage/image3.png)
 
@@ -60,7 +60,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/spatialreferenceimage/image10.png)
 
-1.  Click on Save and then Deploy.
+1.  Click on Save, again on Save and then Deploy.
 
 ![](Images/spatialreferenceimage/image11.png)
 
@@ -68,7 +68,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/spatialreferenceimage/image12.png)
 
-1.  Click on Data Preview to see the data.
+1.  From the context menu of E_mobility_location select **Preview** to see the data.
 
 ![](Images/spatialreferenceimage/image13.png)
 
@@ -76,7 +76,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/spatialreferenceimage/image14.png)
 
-1.  Click on Analytical Dataset **E_mobility-Teched**
+1.  Click on the view **E_mobility-Teched**
 
 ![](Images/spatialreferenceimage/image15.png)
 
@@ -92,9 +92,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/spatialreferenceimage/image18.png)
 
-1.  Search for View (Dimension)
-
-2.  **E_mobility_location**
+1.  Search for View (Dimension) **E_mobility_location**
 
 ![](Images/spatialreferenceimage/image19.png)
 
@@ -110,14 +108,14 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/spatialreferenceimage/image23.png)
 
-1.  We can check the associations in the **E_mobility-Teched** view
+1.  We can see the associations in the **E_mobility-Teched** view
 
 ![](Images/spatialreferenceimage/image24.png)
 
-1.  Click on Data preview to see the data.
+1.  From the context menu of  **E_mobility-Teched** select **Preview data** to see the data.
 
 ![](Images/spatialreferenceimage/image25.png)
 
-1.  Click on "Deploy" the View **E_mobility-Teched** to update the changes**.**
+1.  Click on **Deploy** to update the changes**.**
 
 ![](Images/spatialreferenceimage/image26.png)
