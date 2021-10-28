@@ -1,6 +1,6 @@
 
 
-### Exercise 3: Create Graphical View 
+### Exercise 2: Create Graphical View 
 
 We will create our model in an intuitive graphical interface and at the conclusion of this exercise your Graphical View will look similar to the image below
 
