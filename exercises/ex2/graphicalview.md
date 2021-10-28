@@ -4,7 +4,7 @@
 
 We will create our model in an intuitive graphical interface and at the conclusion of this exercise your Graphical View will look similar to the image below
 
-![](Images/Graphicalview/image10.png)
+![](Images/Graphicalview/image10.PNG)
 
 We will continue to enhance the view as we progress through the exercises.
 
