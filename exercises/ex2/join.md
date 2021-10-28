@@ -1,4 +1,4 @@
-# Exercise 4: Joins
+# Exercise 3: Joins
 
 In this exercise we will configure the join E-MOBILITY_STATION table with E-MOBILITY_USERS table.
 
