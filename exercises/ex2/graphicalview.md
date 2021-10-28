@@ -32,7 +32,7 @@ We will continue to enhance the view as we progress through the exercises.
 6.  Drill down **Views**, select **EMOBILITY_STATION_DATA**(table).
 7.  Drag and drop the table (**EMOBILITY_STATION_DATA)**on to the canvas.
   
-  (Drill down flow :**Connections -\> TechEd_HC -\> AC3538U01-\> Views-\> EMOBILITY_STATION_DATA**)
+  (Drill down flow :**Connections -\> TechEd_HC -\> AC3538U01-\> Views-\> EMOBILITY_STATION_DATA**).
 
 ![](Images/Graphicalview/image7.png)
 
