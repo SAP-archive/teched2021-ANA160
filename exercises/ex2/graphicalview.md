@@ -29,7 +29,7 @@ We will continue to enhance the view as we progress through the exercises.
 ![](Images/Graphicalview/image6.png)
 
 5.  To import the data from "Hana Cloud" navigate to the Sources tab and find the **TechEd_HC** connection under Connections. Drill down **TechEd_HC** Connection, drill down on **AC3538U01**
-6.  Drill down **Views**, select **EMOBILITY_STATION_DATA**(table) 
+6.  Drill down **Views**, select **EMOBILITY_STATION_DATA**(table).
 7.  Drag and drop the table (**EMOBILITY_STATION_DATA)**on to the canvas.
   
   (Drill down flow :**Connections -\> TechEd_HC -\> AC3538U01-\> Views-\> EMOBILITY_STATION_DATA**)
