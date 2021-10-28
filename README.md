@@ -31,12 +31,12 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
 
 
 - [Exercise 0 - Architecture and Overview](exercises/ex0/)
-    - [Exercise 0.1 - Workshop Architecture](exercises/ex0#exercise-01---architecture)
-    - [Exercise 0.2 - REST API integration SAP Data Intelligence](exercises/ex0#02---REST-API-integration-SAP-Data-Intelligence)
-    - [Exercise 0.3 - S/4 User Metadata Integration](exercises/ex0#03---S/4-User-Metadata-Integration)
-    - [Exercise 0.4 - Model data in Data Warehouse Cloud](exercises/ex0#04---Model-data-in-Data-Warehouse-Cloud)
-    - [Exercise 0.5 - Data Federation](exercises/ex0#05---Data-Federation)
-    - [Exercise 0.6 - Build Dashboards in SAP Analytics Cloud](exercises/ex0#06---Build-Dashboards-in-SAP-Analytics-Cloud)
+    - [Exercise 0 - Workshop Architecture](exercises/ex0#exercise-0---architecture)
+    - [Exercise 0.1 - REST API integration SAP Data Intelligence](exercises/ex0#01---REST-API-integration-SAP-Data-Intelligence)
+    - [Exercise 0.2 - S/4 User Metadata Integration](exercises/ex0#02---S/4-User-Metadata-Integration)
+    - [Exercise 0.3 - Model data in Data Warehouse Cloud](exercises/ex0#03---Model-data-in-Data-Warehouse-Cloud)
+    - [Exercise 0.4 - Data Federation](exercises/ex0#04---Data-Federation)
+    - [Exercise 0.5 - Build Dashboards in SAP Analytics Cloud](exercises/ex0#05---Build-Dashboards-in-SAP-Analytics-Cloud)
 - [Exercise 1 - Self-Service Data Preparation with Data Intelligence](exercises/ex1/)
     - [Exercise 1.1 - Introduction](exercises/ex1#exercise-11---introduction)
     - [Exercise 1.2 - Metadata Explorer](exercises/ex1#exercise-12---metadata-explorer)
@@ -61,7 +61,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
 
 ## Learn more
 
-This exercise provides an overview about SAP HANA data masking and SAP HANA data anonymization. If you want to learn more, we provide references containing further information:
+If you want to learn more, we provide references containing further information:
 
 - *Discover*
     - [Self-Service Data Preparation Guide for SAP Data Intelligence](https://help.sap.com/viewer/305fdeeaf7e84ff38cfeff576184472c/Cloud/en-US)
@@ -70,14 +70,14 @@ This exercise provides an overview about SAP HANA data masking and SAP HANA data
 - *Watch*
     - [SAP HANA Academy Videos](https://www.youtube.com/watch?v=_iNJJw7AnrY)
     - [Expert Chat](https://www.youtube.com/watch?v=rePev1MfFdw)
-- *Read*
+<!-- - *Read*
     - [Privacy Protected Data Has Value Too!](https://blogs.sap.com/2019/07/10/privacy-protected-data-has-value-too-part-1-of-2/)
     - [Anonymize X+O Data](https://blogs.sap.com/2019/04/02/get-the-most-out-of-experiential-x-and-operational-o-data-with-sap-hana-real-time-data-anonymization/)
 - *Dive*
     - [SAP Help: Anonymization Guide](https://help.sap.com/viewer/2f789e82e97d4f4e9416547abfbd012e/2020_03_QRC/en-US)
     - [Research paper (VLDB)](https://www.vldb.org/pvldb/vol12/p1998-kessler.pdf)
     - [SAP HANA Cloud Online Roadmap](https://roadmaps.sap.com/index.html#/board?categoryItems=73554900100800002881)
-    - [SAP HANA Online Roadmap](https://roadmaps.sap.com/index.html#/board?categoryItems=01200314690800001945)
+    - [SAP HANA Online Roadmap](https://roadmaps.sap.com/index.html#/board?categoryItems=01200314690800001945) -->
 
 ## How to obtain support
 

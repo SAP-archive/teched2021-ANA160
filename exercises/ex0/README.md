@@ -2,9 +2,7 @@
 
 In this exercise you will learn about the architecture implemented in this hands-on workshop.
 
-## Exercise 0.1 - Workshop Architecture
-
-Architecture image here... with descriptions
+## Exercise 0 - Workshop Architecture
 
 <br>
 
@@ -13,7 +11,7 @@ Architecture image here... with descriptions
 <br>
 
 <!-- ## Exercise 0.2 - SAP Data Intelligence -->
-## 0.2 - REST API integration SAP Data Intelligence 
+## 0.1 - REST API integration SAP Data Intelligence 
 
 SAP Data Intelligence graph is a network of operators connected to each other using typed input ports and output ports for data transfer where users can define and configure the operators in a graph.
 
@@ -43,22 +41,35 @@ SAP Hana Cloud Operator configuration attributes.
 
 
 <!-- ## Exercise 0.3 - SAP Data Warehouse Cloud -->
-## 0.3 - S/4 User Metadata Integration
+## 0.2 - S/4 User Metadata Integration
 
 Description of DWC role in the overall solution/workshop... ... outcome of hands-on
 
-## 0.4 - Model data in Data Warehouse Cloud
+## 0.3 - Model data in Data Warehouse Cloud
  
 
 
 ...
 
 
-## 0.5 - Data Federation
+## 0.4 - Data Federation
 
-....
+eMobility historical data is loaded into the Data lake via a Data Intelligence Cloud Graph (Pipeline). The historical data is then federated by creating virtual tables via Database Explorer as seen in the image below.
 
-## 0.6 - Build Dashboards in SAP Analytics Cloud
+This give us the ability to join the historical data with more recent hot data resident in SAP HANA Cloud for analysis.
+
+<br>
+
+
+![](/exercises/Images/fed.jpg)
+
+Data lake is an SAP HANA Cloud component composed of data lake IQ – which provides high-performance analysis for petabyte volumes of relational data – and data lake Files – which provides managed access to structured, semistructured, and unstructured data stored as files in the data lake.
+
+Data lake is fully integrated into SAP HANA Cloud, sharing common security and tooling.
+
+Data lake is available in different configurations. You can integrate it into a SAP HANA Cloud, SAP HANA database instance, or you can provision a standalone data lake instance with no SAP HANA database integration. You can also enable or disable the data lake IQ component when provisioning your data lake instance.
+
+## 0.5 - Build Dashboards in SAP Analytics Cloud
 
 
  .....
