@@ -1,10 +1,10 @@
 
 
-# Exercise 5: Projections, Calculated columns and Deployment
+# Exercise 4: Projection, Formulas and View deployment
 
 
 
-In this exercise we will add a projection to exclude columns, introduce a calculated column and deploy the view.
+In this exercise we will introduce a projection to exclude columns, include a formula and deploy the view.
 
 At the conclusion of this exercise your Graphical View will look similar to the image below
 
@@ -15,7 +15,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 #### **Add a Projection**
 
 1.  Click on the Join
-2.  In the context click on **Rename or Exclude Columns (Projection)**
+2.  In the context click on **Rename/Exclude Columns (Projection)**
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image1.png)
 
@@ -63,7 +63,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image12.png)
 
-15. If we don't find the column in the preview, click on Column Settings, then select **Cost** column from the list and Click OK.
+15. If we don't find the column in the preview, click on Column Settings, search for **Cost** then select **Cost** column from the list and Click OK.
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image13.png)
 
@@ -73,7 +73,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image15.png)
 
-17. Click on View to change the View properties.
+17. Click on **View1** to change the View properties.
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image16.png)
 
@@ -117,7 +117,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image22.png)
 
-32. Now you can "Deploy" the new Data Model.
+32. Now you can "Deploy" the Data Model.
 
 33. Click "Deploy".
 
@@ -127,7 +127,7 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image24.png)
 
-35. Click on the final data set 'E_mobility-Teched'
+35. Click on the output data set 'E_mobility-Teched'
 
 36. From the context click on Data Preview to see the data.
 
