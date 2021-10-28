@@ -62,7 +62,7 @@
 
    
 
-7. In the middle of the screen, you’ll find some short cuts to the **Space Management** and **Data Builder**, as well as an RSS feed of trending topics on SAP Data Warehouse Cloud. 
+7. In the middle of the screen, we will find some short cuts to the **Space Management** and **Data Builder**, as well as an RSS feed of trending topics on SAP Data Warehouse Cloud.
 
    ![MiddleScreen](Images/LogOn_to_DWCimages/MiddleScreen.png)
 
