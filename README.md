@@ -49,13 +49,14 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 2.1 - Introduction](exercises/ex2/Introduction_and_prerequisites.md)
     - [Exercise 2.2 - Logon to Data Ware House Cloud](exercises/ex2/LogOn_to_DWCimages.md)
     - [Exercise 2.3 - Creating a Graphical View](exercises/ex2/graphicalview.md)
-    - [Exercise 2.4 - Creating a Join](exercises/ex2/join.md)
+    - [Exercise 2.4 - Configuring Joins](exercises/ex2/join.md)
     - [Exercise 2.5 - Projection and Formulas](exercises/ex2/Projection_Calculatedcolumn_and_Deployment.md)
     - [Exercise 2.6 - Spatial](exercises/ex2/Spatial_reference.md)
 - [Exercise 3 - Building dashboards with SAP Analytics Cloud](exercises/ex3/)
     - [Exercise 3.1 - Introduction and Logon](exercises/ex3/1.Introduction_and_Log_in.md)
     - [Exercise 3.2 - Building Visualizations](exercises/ex3/2.Building_visualisations.md)
     - [Exercise 3.3 - Building Geographic Visualization ](exercises/ex3/3.Geographic_visualisations.md)
+    - [Exercise 3.4 - Appendix ](exercises/ex3/4.Appendix.md)
  
 
 
