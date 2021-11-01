@@ -69,14 +69,28 @@ If you want to learn more, we provide references containing further information:
     - [BTP Solution Brief](https://www.sap.com/products/database-data-management.html?pdf-asset=084f548e-847d-0010-87a3-c30de2ffd8ff&page=1)
 
 - *Watch*
-    - [SAP HANA Academy Videos](https://www.youtube.com/watch?v=_iNJJw7AnrY)
-    - [Expert Chat](https://www.youtube.com/watch?v=rePev1MfFdw)
+    - [SAP Unified Data and Analytics](https://www.youtube.com/c/SAPDataAnalyticsCloudSolutions)
+    - [SAP HANA Academy Videos](https://www.youtube.com/channel/UCRhV_0Jlwgz_v3jmAuhHYZg)
+    
+- *Read*
+    - [SAP’s Unified Data and Analytics Solution Brief](https://www.sap.com/programs/data-analytics.html?pdf-asset=6e782098-ec7d-0010-bca6-c68f7e60039b&page=1)
+    - [The Importance of Unified Data and Analytics (Forrester)](https://www.sap.com/programs/data-analytics.html?pdf-asset=9e295602-ad7d-0010-87a3-c30de2ffd8ff&page=1)
+    
+- *Dive*
+    - [SAP Data and Analytics Cloud Portfolio Roadmap](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&PRODUCT=73554900100800002671&PRODUCT=73554900100800002881&PRODUCT=73555000100800002141&range=CURRENT-LAST)
+    - [Business Technology Platform Community](https://community.sap.com/topics/business-technology-platform)
+    
+
+   
 <!-- - *Read*
     - [Privacy Protected Data Has Value Too!](https://blogs.sap.com/2019/07/10/privacy-protected-data-has-value-too-part-1-of-2/)
     - [Anonymize X+O Data](https://blogs.sap.com/2019/04/02/get-the-most-out-of-experiential-x-and-operational-o-data-with-sap-hana-real-time-data-anonymization/)
 - *Discover*
     - [Self-Service Data Preparation Guide for SAP Data Intelligence](https://help.sap.com/viewer/305fdeeaf7e84ff38cfeff576184472c/Cloud/en-US)
     - [SAP Data Intelligence Cloud](https://help.sap.com/viewer/product/SAP_DATA_INTELLIGENCE/Cloud/en-US)
+- *Watch*
+    - [SAP HANA Academy Videos](https://www.youtube.com/watch?v=_iNJJw7AnrY)
+    - [Expert Chat](https://www.youtube.com/watch?v=rePev1MfFdw)
 - *Dive*
     - [SAP Help: Anonymization Guide](https://help.sap.com/viewer/2f789e82e97d4f4e9416547abfbd012e/2020_03_QRC/en-US)
     - [Research paper (VLDB)](https://www.vldb.org/pvldb/vol12/p1998-kessler.pdf)
