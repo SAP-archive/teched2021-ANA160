@@ -65,8 +65,8 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
 If you want to learn more, we provide references containing further information:
 
 - *Discover*
-    - [Self-Service Data Preparation Guide for SAP Data Intelligence](https://help.sap.com/viewer/305fdeeaf7e84ff38cfeff576184472c/Cloud/en-US)
-    - [SAP Data Intelligence Cloud](https://help.sap.com/viewer/product/SAP_DATA_INTELLIGENCE/Cloud/en-US)
+    - [SAP Business Technology Platform (BTP) Portal](https://help.sap.com/viewer/product/BTP/Cloud/en-US?task=discover_task)
+    - [BTP Solution Brief](https://www.sap.com/products/database-data-management.html?pdf-asset=084f548e-847d-0010-87a3-c30de2ffd8ff&page=1)
 
 - *Watch*
     - [SAP HANA Academy Videos](https://www.youtube.com/watch?v=_iNJJw7AnrY)
@@ -74,6 +74,9 @@ If you want to learn more, we provide references containing further information:
 <!-- - *Read*
     - [Privacy Protected Data Has Value Too!](https://blogs.sap.com/2019/07/10/privacy-protected-data-has-value-too-part-1-of-2/)
     - [Anonymize X+O Data](https://blogs.sap.com/2019/04/02/get-the-most-out-of-experiential-x-and-operational-o-data-with-sap-hana-real-time-data-anonymization/)
+- *Discover*
+    - [Self-Service Data Preparation Guide for SAP Data Intelligence](https://help.sap.com/viewer/305fdeeaf7e84ff38cfeff576184472c/Cloud/en-US)
+    - [SAP Data Intelligence Cloud](https://help.sap.com/viewer/product/SAP_DATA_INTELLIGENCE/Cloud/en-US)
 - *Dive*
     - [SAP Help: Anonymization Guide](https://help.sap.com/viewer/2f789e82e97d4f4e9416547abfbd012e/2020_03_QRC/en-US)
     - [Research paper (VLDB)](https://www.vldb.org/pvldb/vol12/p1998-kessler.pdf)
