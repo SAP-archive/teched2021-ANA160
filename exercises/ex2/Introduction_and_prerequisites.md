@@ -66,6 +66,6 @@
 
    ![MiddleScreen](Images/LogOn_to_DWCimages/MiddleScreen.png)
 
-
-
 <br/>
+
+[Exercise 2. Create Graphical View](../ex2/graphicalview.md)

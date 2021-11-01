@@ -1,4 +1,4 @@
-# Exercise 3: Joins
+# Exercise 3:  Configuring Joins
 
 In this exercise we will configure the join E-MOBILITY_STATION table with E-MOBILITY_USERS table.
 
@@ -26,3 +26,5 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 5.  Drag and drop **USERID from E-Mobility Station Data table** on to **User Id present on E-Mobility users table**.
 
 > ![](Images/joinimage/image5.png)
+
+[Exercise 4. Projection anf Formulas](../ex2/Projection_Calculatedcolumn_and_Deployment.md)

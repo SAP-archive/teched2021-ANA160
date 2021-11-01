@@ -50,3 +50,5 @@ Drilldown flow :  (**Connections** -\> **teched_HE4** -\> **ABAP Tables by table
 9.  Drag and drop the table(ZEMOBILITYUSERS) right on top of the "EMOBILITY_STATION_DATA" table and click on JOIN in the pop-up.
 
 ![](Images/Graphicalview/image11.png)
+
+[Exercise 3. Configuring Joins](../ex2/join.md)
