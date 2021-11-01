@@ -133,4 +133,4 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 ![](Images/Projection_Calculatedcolumn_and_Deployment/image25.png)
 
-[Exercise 4. Spatial Reference](../ex2/Spatial_reference.md)
+[Exercise 5. Spatial Reference](../ex2/Spatial_reference.md)

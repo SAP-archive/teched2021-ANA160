@@ -27,4 +27,4 @@ At the conclusion of this exercise your Graphical View will look similar to the 
 
 > ![](Images/joinimage/image5.png)
 
-[Exercise 4. Projection anf Formulas](../ex2/Projection_Calculatedcolumn_and_Deployment.md)
+[Exercise 4. Projection and Formulas](../ex2/Projection_Calculatedcolumn_and_Deployment.md)
