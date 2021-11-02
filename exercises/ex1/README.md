@@ -247,6 +247,21 @@ The data transformation is now ready for integration. We will also profile the d
 ![image039](../Images/image039.3.jpg)
 
 
+## Learn more
+
+If you want to learn more, we provide references containing further information:
+
+- *Discover*
+    - [Self-Service Data Preparation Guide for SAP Data Intelligence Cloud](https://help.sap.com/viewer/305fdeeaf7e84ff38cfeff576184472c/Cloud/en-US/55cd5863c69d4d9eab2f2b886e909273.html?q=data%20preparation)
+    - [SAP Data Intelligence Cloud ](https://www.sap.com/products/database-data-management.html?pdf-asset=084f548e-847d-0010-87a3-c30de2ffd8ff&page=1)
+- *Watch*
+    - [Self-Service Data Preparation](https://www.youtube.com/watch?v=3-V8qQWkHvk)
+    - [SAP HANA Academy Videos - Data Intelligence Cloud](https://www.youtube.com/watch?v=2tC4GBUjxuc)
+- *Read*
+    - [SAP’s Unified Data and Analytics Solution Brief](https://www.sap.com/programs/data-analytics.html?pdf-asset=6e782098-ec7d-0010-bca6-c68f7e60039b&page=1)
+- *Dive*
+    - [SAP Data Intelligence | Hands-on Video Tutorials](https://blogs.sap.com/2021/02/04/sap-data-intelligence-hands-on-video-tutorials/)
+    - [Build Your First Pipeline with SAP Data Intelligence, trial edition](https://developers.sap.com/group.dataintelligence-trial-2-pipelines.html)
 
 We finished profiling and publishing our datasets. Next, we will define the business glossary and rules. The quality of these sources can be automatically tracked with Rules. We will cover this topic in the next section.
 
