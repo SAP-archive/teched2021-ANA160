@@ -35,7 +35,7 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 0.1 - REST API integration SAP Data Intelligence](exercises/ex0#01---REST-API-integration-SAP-Data-Intelligence)
     - [Exercise 0.2 - Data Federation](exercises/ex0#02---Data-Federation)
     - [Exercise 0.3 - S/4 User Data Integration](exercises/ex0#03---S/4-User-Metadata-Integration)
-    - [Exercise 0.4 - Model data in Data Warehouse Cloud](exercises/ex0#04---Model-data-in-Data-Warehouse-Cloud)
+    - [Exercise 0.4 - Model data in Data Warehouse Cloud](exercises/ex0#04---model-data-in-data-warehouse-cloud)
     - [Exercise 0.5 - Build Dashboards in SAP Analytics Cloud](exercises/ex0#05---Build-Dashboards-in-SAP-Analytics-Cloud)
 - [Exercise 1 - Self-Service Data Preparation with Data Intelligence](exercises/ex1/)
     - [Exercise 1.1 - Introduction](exercises/ex1#exercise-11---introduction)
