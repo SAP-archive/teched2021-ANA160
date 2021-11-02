@@ -250,6 +250,18 @@ The data transformation is now ready for integration. We will also profile the d
 
 We finished profiling and publishing our datasets. Next, we will define the business glossary and rules. The quality of these sources can be automatically tracked with Rules. We will cover this topic in the next section.
 
+## Learn more
+
+If you want to learn more, we provide references containing further information:
+
+- *Discover*
+    - [Self-Service Data Preparation Guide for SAP Data Intelligence](https://help.sap.com/viewer/305fdeeaf7e84ff38cfeff576184472c/Cloud/en-US)
+    - [SAP Data Intelligence Cloud](https://help.sap.com/viewer/product/SAP_DATA_INTELLIGENCE/Cloud/en-US)
+
+- *Watch*
+    - [SAP HANA Academy Videos](https://www.youtube.com/watch?v=_iNJJw7AnrY)
+    - [Expert Chat](https://www.youtube.com/watch?v=rePev1MfFdw)
+
 [Exercise 4. Business Glossary](../4_ExerciseFour/README.md) 
 
 - - - -
