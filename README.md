@@ -8,7 +8,7 @@ TBA -->
 
 ## Overview
 
-Welcome to SAP TechEd 2021 session ANA160 - Give Data Purpose with SAP BTP and Cloud Analytics Solutions.
+Welcome to **SAP TechEd 2021 session ANA160 - Give Data Purpose with SAP BTP and Cloud Analytics Solutions**.
 
 This session introduces attendees to the SAP data and analytics solutions in the cloud. You will get a hands-on experience of our flagship cloud solutions such as SAP Data Intelligence Cloud, SAP HANA Cloud, SAP Data Warehouse Cloud and SAP Analytics Cloud.
 
@@ -23,9 +23,14 @@ The requirements to follow the exercises in this repository are:
 - SAP Data Intelligence tenant
 - SAP SAC tenant
 - SAP DWC tenant
-Above requirements are already met, pre-created by SAP.
 
-Instructions on how to start and use such trials are in [Exercise 0](exercises/ex0/).
+
+The above requirements have already been met and have been pre-created by SAP.
+
+**[Exercise 0](exercises/ex0/) explains the ``architecture`` of the exercises and provides information regarding each of the components, including how to use the trial versions SAP Data Intelligence, SAP SAC and SAP DWC. It is for your ``information and reference`` only and does not include hand-on exercises.** 
+
+
+The hands-on exercises begin with [Exercise 1 - Self-Service Data Preparation with Data Intelligence](exercises/ex1/).
 
 ## Exercises
 
@@ -45,14 +50,15 @@ Instructions on how to start and use such trials are in [Exercise 0](exercises/e
     - [Exercise 1.5 - View Fact Sheet](exercises/ex1#exercise-15---view-fact-sheet)
     - [Exercise 1.6 - Prepare Dataset](exercises/ex1#exercise-16---prepare-dataset)
     - [Exercise 1.7 - Publish Dataset](exercises/ex1#exercise-17---publish-dataset)
-- [Exercise 2 - Data Modeling with Data Warehouse Cloud](exercises/ex2/)
+    - [Exercise 1.8 - Data Lineage](exercises/ex1#exercise-18---data-lineage)
+- [Exercise 2 - Data Modeling with Data Warehouse Cloud](exercises/ex2/Introduction_and_prerequisites.md)
     - [Exercise 2.1 - Introduction](exercises/ex2/Introduction_and_prerequisites.md)
-    - [Exercise 2.2 - Logon to Data Ware House Cloud](exercises/ex2/LogOn_to_DWCimages.md)
-    - [Exercise 2.3 - Creating a Graphical View](exercises/ex2/graphicalview.md)
-    - [Exercise 2.4 - Configuring Joins](exercises/ex2/join.md)
-    - [Exercise 2.5 - Projection and Formulas](exercises/ex2/Projection_Calculatedcolumn_and_Deployment.md)
-    - [Exercise 2.6 - Spatial](exercises/ex2/Spatial_reference.md)
-- [Exercise 3 - Building dashboards with SAP Analytics Cloud](exercises/ex3/)
+    <!-- - [Exercise 2.2 - Logon to Data Warehouse Cloud](exercises/ex2/LogOn_to_DWCimages.md) -->
+    - [Exercise 2.2 - Creating a Graphical View](exercises/ex2/graphicalview.md)
+    - [Exercise 2.3 - Configuring Joins](exercises/ex2/join.md)
+    - [Exercise 2.4 - Projection and Formulas](exercises/ex2/Projection_Calculatedcolumn_and_Deployment.md)
+    - [Exercise 2.5 - Spatial](exercises/ex2/Spatial_reference.md)
+- [Exercise 3 - Building dashboards with SAP Analytics Cloud](exercises/ex3/1.Introduction_and_Log_in.md)
     - [Exercise 3.1 - Introduction and Logon](exercises/ex3/1.Introduction_and_Log_in.md)
     - [Exercise 3.2 - Building Visualizations](exercises/ex3/2.Building_visualisations.md)
     - [Exercise 3.3 - Building Geographic Visualization ](exercises/ex3/3.Geographic_visualisations.md)
