@@ -2,6 +2,15 @@
 
 In this exercise you will learn about the architecture implemented in this hands-on workshop.
 
+The following topics are for your  **``information and reference only ``** and refer to data movement, integration and preparation in the overall scheme of the workshop. You will not have access to these components during the workshop.
+
+ 
+  - [0.1 - REST API integration SAP Data Intelligence](#01---rest-api-integration-sap-data-intelligence)
+  - [0.2 - Federate Historical data from DataLake](#02---federate-historical-data-from-datalake)
+  - [0.3 - S/4 User Data Integration](#03-s4-user-data-integration)
+  
+  <br>
+
 ## 0 - Workshop Architecture
 
 <br>
@@ -21,7 +30,7 @@ The workshop is not focused on Data Pipelining and consumption, this is merely b
 
 <br>
 
-Data Intelligence Launchpad is a central access point for various tool sets with in the Data Intelligence Suite. The Modeler is the tool set used to create Graphs (Data Pipelines).
+Data Intelligence Launchpad is a central access point for various tool sets within the Data Intelligence Suite. The Modeler is the tool set used to create Graphs (Data Pipelines).
 
 ![](../Images/mod_1.jpg)
 
@@ -61,7 +70,7 @@ Data Lake is available in different configurations. You can integrate it into a 
 
 <br>
 
-## 0.3 S/4 User Data Integration
+## 0.3 - S/4 User Data Integration
 
 We ingest and integrate user data data from a SAP S/4 system as sources into ``SAP Data Warehouse Cloud``.
 
@@ -125,7 +134,7 @@ Graphical view gets consumed in SAP Analytics Cloud to build visualizations
 
 In the hands on exercises we would be consuming the view built in SAP Data Warehouse Cloud to build visualizations which would help us analyse various KPI's.
 
-Charge@Work Overview
+``Charge@Work`` Overview
 
 ![](../Images/Visualisationimages/image4.png)
 

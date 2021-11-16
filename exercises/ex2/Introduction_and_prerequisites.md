@@ -1,4 +1,4 @@
-# **Exercise 1: Introduction and Prerequisites **
+# Exercise 2.1 - Data Modeling with Data Warehouse Cloud
 
 ![image1](Images/Introduction_and_prerequisitesimages/INTRO_image03.png)
 
@@ -27,9 +27,9 @@
 
 ## Prerequisites
 
-1. Log On information and credentials should have been assigned to you. If not, please contact the workshop coordinator.
+ Log On information and credentials should have been assigned to you. If not, please contact the workshop coordinator.
 
-2. Each user will have access to their own space with predefined local connections.
+ Each user will have access to their own space with predefined local connections.
 
    
 
@@ -40,29 +40,29 @@
 
 ## Log On to SAP Data Warehouse Cloud
 
-3. Please begin by opening a Chrome browser and enter the SAP Data Warehouse Cloud URL provided from your Workshop organizers.
+Please begin by opening a Chrome browser and enter the SAP Data Warehouse Cloud URL provided from your Workshop organizers.
 
    
 
-4. Login with your user credentials. 
+Login with your user credentials. 
 
    ![ExpandMenu](Images/LogOn_to_DWCimages/Login.png)
 
     
 
-5. Expand the **Navigation Menu** in the top left corner to see the full list of features.
+Expand the **Navigation Menu** in the top left corner to see the full list of features.
 
    ![ExpandMenu](Images/LogOn_to_DWCimages/NavMenu.png)
 
    
 
-6. Collapse to hide the detail again.
+Collapse to hide the detail again.
 
    ![Image001](Images/LogOn_to_DWCimages/CollapseMenu.png)
 
    
 
-7. In the middle of the screen, we will find some short cuts to the **Space Management** and **Data Builder**, as well as an RSS feed of trending topics on SAP Data Warehouse Cloud.
+In the middle of the screen, we will find some short cuts to the **Space Management** and **Data Builder**, as well as an RSS feed of trending topics on SAP Data Warehouse Cloud.
 
    ![MiddleScreen](Images/LogOn_to_DWCimages/MiddleScreen.png)
 
