@@ -1,10 +1,6 @@
 # ANA160 - Give Data Purpose with SAP BTP and Cloud Analytics Solutions
 
-<!-- [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ANA160)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ANA160/) -->
-<!-- 
-## Description
-
-TBA -->
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ANA160)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ANA160/)
 
 ## Overview
 
